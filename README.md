@@ -1,4 +1,5 @@
-
+## Enlace con archivo personal
+[["mi documento personal"] (https://docs.google.com/document/d/1o5P5iuIJVroTv4cCgV1ss2f8FcNdw8pZXRNbQKuNPVo/edit?usp=sharing)]
 
 ### Educación del preceptor en la provincia de Misiones, Argentina
 
